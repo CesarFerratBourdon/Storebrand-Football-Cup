@@ -1,0 +1,209 @@
+[
+  {
+    "id": 1,
+    "name": "ESPEN SIMENSEN",
+    "salary": 1000000,
+    "specs": {
+      "team": "DBD",
+      "age": 36,
+      "position": "Goalkeeper",
+      "flair": 1
+    },
+    "description": "Espen is a young and dynamic football player from Norway. He has 2 kids and enjoy the nature",
+    "skills": {
+      "dribbling": 1,
+      "defense": 4,
+      "shooting": 3,
+      "passing": 3,
+      "physical": 3
+    },
+    "image": {
+      "small": "assets/images/ronaldo-big.jpg",
+      "large": "assets/images/ronaldo-small.jpg"
+    }
+  },
+  {
+    "id": 1,
+    "name": "ESPEN SIMENSEN",
+    "salary": 1000000,
+    "specs": {
+      "team": "DBD",
+      "age": 36,
+      "position": "Goalkeeper",
+      "flair": 1
+    },
+    "description": "Espen is a young and dynamic football player from Norway. He has 2 kids and enjoy the nature",
+    "skills": {
+      "dribbling": 1,
+      "defense": 4,
+      "shooting": 3,
+      "passing": 3,
+      "physical": 3
+    },
+    "image": {
+      "small": "assets/images/ronaldo-big.jpg",
+      "large": "assets/images/ronaldo-small.jpg"
+    }
+  },
+  {
+    "id": 1,
+    "name": "ESPEN SIMENSEN",
+    "salary": 1000000,
+    "specs": {
+      "team": "DBD",
+      "age": 36,
+      "position": "Goalkeeper",
+      "flair": 1
+    },
+    "description": "Espen is a young and dynamic football player from Norway. He has 2 kids and enjoy the nature",
+    "skills": {
+      "dribbling": 1,
+      "defense": 4,
+      "shooting": 3,
+      "passing": 3,
+      "physical": 3
+    },
+    "image": {
+      "small": "assets/images/ronaldo-big.jpg",
+      "large": "assets/images/ronaldo-small.jpg"
+    }
+  },
+  {
+    "id": 1,
+    "name": "ESPEN SIMENSEN",
+    "salary": 1000000,
+    "specs": {
+      "team": "DBD",
+      "age": 36,
+      "position": "Goalkeeper",
+      "flair": 1
+    },
+    "description": "Espen is a young and dynamic football player from Norway. He has 2 kids and enjoy the nature",
+    "skills": {
+      "dribbling": 1,
+      "defense": 4,
+      "shooting": 3,
+      "passing": 3,
+      "physical": 3
+    },
+    "image": {
+      "small": "assets/images/ronaldo-big.jpg",
+      "large": "assets/images/ronaldo-small.jpg"
+    }
+  },
+  {
+    "id": 1,
+    "name": "ESPEN SIMENSEN",
+    "salary": 1000000,
+    "specs": {
+      "team": "DBD",
+      "age": 36,
+      "position": "Goalkeeper",
+      "flair": 1
+    },
+    "description": "Espen is a young and dynamic football player from Norway. He has 2 kids and enjoy the nature",
+    "skills": {
+      "dribbling": 1,
+      "defense": 4,
+      "shooting": 3,
+      "passing": 3,
+      "physical": 3
+    },
+    "image": {
+      "small": "assets/images/ronaldo-big.jpg",
+      "large": "assets/images/ronaldo-small.jpg"
+    }
+  },
+  {
+    "id": 1,
+    "name": "ESPEN SIMENSEN",
+    "salary": 1000000,
+    "specs": {
+      "team": "DBD",
+      "age": 36,
+      "position": "Goalkeeper",
+      "flair": 1
+    },
+    "description": "Espen is a young and dynamic football player from Norway. He has 2 kids and enjoy the nature",
+    "skills": {
+      "dribbling": 1,
+      "defense": 4,
+      "shooting": 3,
+      "passing": 3,
+      "physical": 3
+    },
+    "image": {
+      "small": "assets/images/ronaldo-big.jpg",
+      "large": "assets/images/ronaldo-small.jpg"
+    }
+  },
+  {
+    "id": 1,
+    "name": "ESPEN SIMENSEN",
+    "salary": 1000000,
+    "specs": {
+      "team": "DBD",
+      "age": 36,
+      "position": "Goalkeeper",
+      "flair": 1
+    },
+    "description": "Espen is a young and dynamic football player from Norway. He has 2 kids and enjoy the nature",
+    "skills": {
+      "dribbling": 1,
+      "defense": 4,
+      "shooting": 3,
+      "passing": 3,
+      "physical": 3
+    },
+    "image": {
+      "small": "assets/images/ronaldo-big.jpg",
+      "large": "assets/images/ronaldo-small.jpg"
+    }
+  },
+  {
+    "id": 1,
+    "name": "ESPEN SIMENSEN",
+    "salary": 1000000,
+    "specs": {
+      "team": "DBD",
+      "age": 36,
+      "position": "Goalkeeper",
+      "flair": 1
+    },
+    "description": "Espen is a young and dynamic football player from Norway. He has 2 kids and enjoy the nature",
+    "skills": {
+      "dribbling": 1,
+      "defense": 4,
+      "shooting": 3,
+      "passing": 3,
+      "physical": 3
+    },
+    "image": {
+      "small": "assets/images/ronaldo-big.jpg",
+      "large": "assets/images/ronaldo-small.jpg"
+    }
+  },
+  {
+    "id": 1,
+    "name": "ESPEN SIMENSEN",
+    "salary": 1000000,
+    "specs": {
+      "team": "DBD",
+      "age": 36,
+      "position": "Goalkeeper",
+      "flair": 1
+    },
+    "description": "Espen is a young and dynamic football player from Norway. He has 2 kids and enjoy the nature",
+    "skills": {
+      "dribbling": 1,
+      "defense": 4,
+      "shooting": 3,
+      "passing": 3,
+      "physical": 3
+    },
+    "image": {
+      "small": "assets/images/ronaldo-big.jpg",
+      "large": "assets/images/ronaldo-small.jpg"
+    }
+  }
+]

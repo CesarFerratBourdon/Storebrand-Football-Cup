@@ -1,0 +1,142 @@
+<!DOCTYPE html>
+<html>
+
+<head lang="en">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<meta charset="utf-8">
+
+	<title>Storebrand Football Cup</title>
+
+	<link href="http://fonts.googleapis.com/css?family=Open+Sans:400" rel="stylesheet">
+	<link href="assets/css/styles.css" rel="stylesheet">
+</head>
+
+<body>
+
+	<header class="compact">
+		<h1><a href="#">Storebrand Football Cup</a></h1>
+		<img src="./assets/images/Logo_Storebrand.svg.png" height="40" alt="logo Storebrand"/>
+	</header>
+
+	<div class="main-content">
+
+		<div class="all-players page">
+
+			<div class="filters">
+				<form>
+					<div class="filter-criteria">
+						<span>Team</span>
+						<label><input type="checkbox" name="Team" value="sfr-inngaende">SFR Inngaende</label>
+						<label><input type="checkbox" name="Team" value="sam-united">SAM United</label>
+						<label><input type="checkbox" name="Team" value="fk-guleboj">FK GULEBOJ</label>
+						<label><input type="checkbox" name="Team" value="uia-legends">UIA Legends</label>
+						<label><input type="checkbox" name="Team" value="shooters">sHOOTERS</label>
+                        <label><input type="checkbox" name="Team" value="i-droyeste-laget">I droyeste laget</label>
+                        <label><input type="checkbox" name="Team" value="sfr-utgaende">SFR Utgaende</label>
+                        <label><input type="checkbox" name="Team" value="bal-sam">balSAM</label>
+                        <label><input type="checkbox" name="Team" value="banken">Banken</label>
+                        <label><input type="checkbox" name="Team" value="leads-united">Leads United</label>
+                        <label><input type="checkbox" name="Team" value="dbd">DBD</label>
+                        
+					</div>
+					<div class="filter-criteria">
+						<span>Position</span>
+						<label><input type="checkbox" value="goalkeeper" name="position">Goalkeeper</label>
+                        <label><input type="checkbox" value="defender" name="position">Defender</label>
+                        <label><input type="checkbox" value="midfielder" name="position">Midfielder</label>
+                        <label><input type="checkbox" value="forward" name="position">Forward</label>
+                        <label><input type="checkbox" value="substitute" name="position">Substitute</label>
+					</div>
+					<div class="filter-criteria">
+						<span>Dribbling</span>
+						<div class="slidecontainer">
+                            <input type="range" min="0" max="5" value="0" step="1" class="slider" id="dribbling">
+                        </div>
+                    </div>
+                    <div class="filter-criteria">
+						<span>Pace</span>
+						<div class="slidecontainer">
+                            <input type="range" min="0" max="5" value="0" step="1" class="slider" id="pace">
+                        </div>
+                    </div>
+                    <div class="filter-criteria">
+						<span>Defense</span>
+						<div class="slidecontainer">
+                            <input type="range" min="0" max="5" value="0" step="1" class="slider" id="defense">
+                        </div>
+                    </div>
+                    <div class="filter-criteria">
+						<span>Shooting</span>
+						<div class="slidecontainer">
+                            <input type="range" min="0" max="5" value="0" step="1" class="slider" id="shooting">
+                        </div>
+                    </div>
+                    <div class="filter-criteria">
+						<span>Passing</span>
+						<div class="slidecontainer">
+                            <input type="range" min="0" max="5" value="0" step="1" class="slider" id="passing">
+                        </div>
+                    </div>
+                    <div class="filter-criteria">
+						<span>Physical</span>
+						<div class="slidecontainer">
+                            <input type="range" min="0" max="5" value="0" step="1" class="slider" id="physical">
+                        </div>
+					</div>
+					<div class="filter-criteria">
+						<span>Flair</span>
+						<label><input type="checkbox" value="1" name="flair">&#x2605 &#x2606 &#x2606 &#x2606 &#x2606</label>
+						<label><input type="checkbox" value="2" name="flair">&#x2605 &#x2605 &#x2606 &#x2606 &#x2606</label>
+						<label><input type="checkbox" value="3" name="flair">&#x2605 &#x2605 &#x2605 &#x2606 &#x2606</label>
+                        <label><input type="checkbox" value="4" name="flair">&#x2605 &#x2605 &#x2605 &#x2605 &#x2606</label>
+                        <label><input type="checkbox" value="5" name="flair">&#x2605 &#x2605 &#x2605 &#x2605 &#x2605</label>
+					</div>
+
+					<button>Clear out filters</button>
+				</form>
+			</div>
+
+			<ul class="players-list">
+				<script id="players-template" type="x-handlebars-template">​
+					{{#each this}}
+						<li data-index="{{id}}">
+							<a href="#" class="player-pic"><img src="{{image.small}}" height="130" alt="{{name}}"/></a>
+							<h2><a href="#"> {{name}} </a></h2>
+							<ul class="player-description">
+								<li><span>Team: </span>{{specs.team}}</li>
+								<li><span>Age: </span>{{specs.age}} years old</li>
+								<li><span>Position: </span>{{specs.position}}</li>
+								<li><span>Flair: </span>{{specs.flair}} out of 5</li>
+							</ul>
+							<button>More!</button>
+							<p class="player-salary">{{salary}}$</p>
+							<div class="highlight"></div>
+						</li>
+					{{/each}}
+				</script> 
+			</ul>
+
+		</div>
+
+
+		<div class="single-player page">
+			<div class="overlay"></div>
+			<div class="preview-large">
+				<h3>Single player view</h3>
+				<img src=""/>
+				<p></p>
+				<span class="close">×</span>
+			</div>
+		</div>
+
+		<div class="error page">
+			<h3>Oops, this page doen's exist!</h3>
+		</div>
+	</div>
+
+
+	<script src="//ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
+	<script src="//cdnjs.cloudflare.com/ajax/libs/handlebars.js/2.0.0/handlebars.min.js"></script>
+	<script src="assets/js/script.js"></script>
+</body>
+</html>
