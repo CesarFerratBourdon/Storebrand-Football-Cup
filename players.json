@@ -4,206 +4,197 @@
     "name": "ESPEN SIMENSEN",
     "salary": 1000000,
     "specs": {
-      "team": "DBD",
-      "age": 36,
+      "team": "sHOOTERS",
+      "age": 42,
       "position": "Goalkeeper",
-      "flair": 1
-    },
-    "description": "Espen is a young and dynamic football player from Norway. He has 2 kids and enjoy the nature",
-    "skills": {
-      "dribbling": 1,
+      "flair": 3,
+      "dribbling": 5,
+      "pace": 2,
       "defense": 4,
       "shooting": 3,
       "passing": 3,
       "physical": 3
     },
+    "description": "Espen is a young and dynamic football player from Norway. He has 2 kids and enjoy the nature",
     "image": {
       "small": "assets/images/ronaldo-big.jpg",
       "large": "assets/images/ronaldo-small.jpg"
     }
   },
   {
-    "id": 1,
-    "name": "ESPEN SIMENSEN",
-    "salary": 1000000,
+    "id": 2,
+    "name": "CESAR BOURDON",
+    "salary": 500000,
     "specs": {
       "team": "DBD",
-      "age": 36,
-      "position": "Goalkeeper",
-      "flair": 1
-    },
-    "description": "Espen is a young and dynamic football player from Norway. He has 2 kids and enjoy the nature",
-    "skills": {
+      "age": 34,
+      "position": "Midfielder",
+      "flair": 5,
       "dribbling": 1,
+      "pace": 2,
       "defense": 4,
       "shooting": 3,
       "passing": 3,
       "physical": 3
     },
+    "description": "Cesar is a young and dynamic football player from Norway. He has 2 kids and enjoy the nature",
     "image": {
-      "small": "assets/images/ronaldo-big.jpg",
-      "large": "assets/images/ronaldo-small.jpg"
+      "small": "assets/images/Cesar-Bourdon.png",
+      "large": "assets/images/Cesar-Bourdon.png"
     }
   },
   {
-    "id": 1,
-    "name": "ESPEN SIMENSEN",
-    "salary": 1000000,
+    "id": 3,
+    "name": "HEIDI STORRUSTE",
+    "salary": 300000,
     "specs": {
       "team": "DBD",
-      "age": 36,
-      "position": "Goalkeeper",
-      "flair": 1
-    },
-    "description": "Espen is a young and dynamic football player from Norway. He has 2 kids and enjoy the nature",
-    "skills": {
+      "age": 45,
+      "position": "Substitute",
+      "flair": 2,
       "dribbling": 1,
+      "pace": 2,
       "defense": 4,
       "shooting": 3,
       "passing": 3,
       "physical": 3
     },
+    "description": "Heidi is a young and dynamic football player from Norway. He has 2 kids and enjoy the nature",
     "image": {
-      "small": "assets/images/ronaldo-big.jpg",
-      "large": "assets/images/ronaldo-small.jpg"
+      "small": "assets/images/Heidi-Storruste.png",
+      "large": "assets/images/Heidi-Storruste.png"
     }
   },
   {
-    "id": 1,
-    "name": "ESPEN SIMENSEN",
-    "salary": 1000000,
+    "id": 4,
+    "name": "NICOLAI AASBERG",
+    "salary": 400000,
     "specs": {
-      "team": "DBD",
-      "age": 36,
-      "position": "Goalkeeper",
-      "flair": 1
-    },
-    "description": "Espen is a young and dynamic football player from Norway. He has 2 kids and enjoy the nature",
-    "skills": {
-      "dribbling": 1,
+      "team": "Banken",
+      "age": 32,
+      "position": "Forward",
+      "flair": 1,
+      "dribbling": 5,
+      "pace": 2,
       "defense": 4,
       "shooting": 3,
       "passing": 3,
       "physical": 3
     },
+    "description": "Nicolai is a young and dynamic football player from Norway. He has 2 kids and enjoy the nature",
     "image": {
-      "small": "assets/images/ronaldo-big.jpg",
-      "large": "assets/images/ronaldo-small.jpg"
+      "small": "assets/images/Nicolai-Aasberg.png",
+      "large": "assets/images/Nicolai-Aasberg.png"
     }
   },
   {
-    "id": 1,
-    "name": "ESPEN SIMENSEN",
-    "salary": 1000000,
+    "id": 5,
+    "name": "EIRIK STIEN",
+    "salary": 700000,
     "specs": {
       "team": "DBD",
-      "age": 36,
-      "position": "Goalkeeper",
-      "flair": 1
-    },
-    "description": "Espen is a young and dynamic football player from Norway. He has 2 kids and enjoy the nature",
-    "skills": {
+      "age": 33,
+      "position": "Defender",
+      "flair": 1,
       "dribbling": 1,
+      "pace": 2,
       "defense": 4,
       "shooting": 3,
       "passing": 3,
       "physical": 3
     },
+    "description": "Eirik is a young and dynamic football player from Norway. He has 2 kids and enjoy the nature",
     "image": {
-      "small": "assets/images/ronaldo-big.jpg",
-      "large": "assets/images/ronaldo-small.jpg"
+      "small": "assets/images/Eirik-Stien.png",
+      "large": "assets/images/Eirik-Stien.png"
     }
   },
   {
-    "id": 1,
-    "name": "ESPEN SIMENSEN",
-    "salary": 1000000,
+    "id": 6,
+    "name": "STEVE MURPHY",
+    "salary": 1500000,
     "specs": {
       "team": "DBD",
-      "age": 36,
-      "position": "Goalkeeper",
-      "flair": 1
-    },
-    "description": "Espen is a young and dynamic football player from Norway. He has 2 kids and enjoy the nature",
-    "skills": {
+      "age": 44,
+      "position": "Midfielder",
+      "flair": 2,
       "dribbling": 1,
+      "pace": 2,
       "defense": 4,
       "shooting": 3,
       "passing": 3,
       "physical": 3
     },
+    "description": "Steve is a young and dynamic football player from Norway. He has 2 kids and enjoy the nature",
     "image": {
-      "small": "assets/images/ronaldo-big.jpg",
-      "large": "assets/images/ronaldo-small.jpg"
+      "small": "assets/images/Steve-Murphy.png",
+      "large": "assets/images/Steve-Murphy.png"
     }
   },
   {
-    "id": 1,
-    "name": "ESPEN SIMENSEN",
-    "salary": 1000000,
+    "id": 7,
+    "name": "CECILIA GIORCELLI",
+    "salary": 5500000,
     "specs": {
       "team": "DBD",
-      "age": 36,
-      "position": "Goalkeeper",
-      "flair": 1
-    },
-    "description": "Espen is a young and dynamic football player from Norway. He has 2 kids and enjoy the nature",
-    "skills": {
+      "age": 25,
+      "position": "Forward",
+      "flair": 3,
       "dribbling": 1,
+      "pace": 2,
       "defense": 4,
       "shooting": 3,
       "passing": 3,
       "physical": 3
     },
+    "description": "Cecilia is a young and dynamic football player from Norway. He has 2 kids and enjoy the nature",
     "image": {
-      "small": "assets/images/ronaldo-big.jpg",
-      "large": "assets/images/ronaldo-small.jpg"
+      "small": "assets/images/Cecilia-Giorcelli.png",
+      "large": "assets/images/Cecilia-Giorcelli.png"
     }
   },
   {
-    "id": 1,
-    "name": "ESPEN SIMENSEN",
-    "salary": 1000000,
+    "id": 8,
+    "name": "KIRSTEN MYRNES",
+    "salary": 2000000,
     "specs": {
       "team": "DBD",
-      "age": 36,
-      "position": "Goalkeeper",
-      "flair": 1
-    },
-    "description": "Espen is a young and dynamic football player from Norway. He has 2 kids and enjoy the nature",
-    "skills": {
-      "dribbling": 1,
+      "age": 46,
+      "position": "Defender ",
+      "flair": 4,
+      "dribbling": 5,
+      "pace": 2,
       "defense": 4,
       "shooting": 3,
       "passing": 3,
       "physical": 3
     },
+    "description": "KIRSTEN is a young and dynamic football player from Norway. He has 2 kids and enjoy the nature",
     "image": {
-      "small": "assets/images/ronaldo-big.jpg",
-      "large": "assets/images/ronaldo-small.jpg"
+      "small": "assets/images/Kirsten-Myrnes.png",
+      "large": "assets/images/Kirsten-Myrnes.png"
     }
   },
   {
-    "id": 1,
-    "name": "ESPEN SIMENSEN",
-    "salary": 1000000,
+    "id": 9,
+    "name": "ROTSEN MARCELLO",
+    "salary": 100000,
     "specs": {
       "team": "DBD",
-      "age": 36,
-      "position": "Goalkeeper",
-      "flair": 1
-    },
-    "description": "Espen is a young and dynamic football player from Norway. He has 2 kids and enjoy the nature",
-    "skills": {
-      "dribbling": 1,
+      "age": 39,
+      "position": "Substitute",
+      "flair": 5,
+      "dribbling": 3,
+      "pace": 2,
       "defense": 4,
       "shooting": 3,
       "passing": 3,
       "physical": 3
     },
+    "description": "Rotsen is a young and dynamic football player from Norway. He has 2 kids and enjoy the nature",
     "image": {
-      "small": "assets/images/ronaldo-big.jpg",
-      "large": "assets/images/ronaldo-small.jpg"
+      "small": "assets/images/Rotsen-Marcello.png",
+      "large": "assets/images/Rotsen-Marcello.png"
     }
   }
 ]

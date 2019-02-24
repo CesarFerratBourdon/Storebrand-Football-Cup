@@ -130,7 +130,7 @@ header > img {
 
 .filters button{
 	border-radius: 2px;
-	background-color:  #4BC34B;
+	background-color:  #A61916;
 	box-shadow: 0 1px 1px rgba(0, 0, 0, 0.12);
 	border: 0;
 	color: #ffffff;
@@ -173,7 +173,7 @@ header > img {
     width: 25px; 
     height: 25px;
     border-radius: 50%; 
-    background: #87bae1; 
+    background: #A61916; 
     cursor: pointer; 
 }
 
@@ -181,7 +181,7 @@ header > img {
     width: 25px;
     height: 25px;
     border-radius: 50%;
-    background: #87bae1;
+    background: #A61916;
     cursor: pointer;
 }
 
@@ -267,27 +267,18 @@ header > img {
 /* Player description */
 
 .players-list .player-description{
-	margin-top: 20px;
-
 	color: #5d5d5d;
 	font-size: 14px;
 	line-height: 1.45;
-	white-space: normal;
-
 	max-width: 260px;
+	margin-top: 20px;
 	margin-bottom: 20px;
-
-	list-style: none;
 }
 
 .players-list .player-description li{
-	display: inline-block;
-	margin-right: 5px;
-}
-
-.players-list .player-description li:first-child{
 	display: block;
 }
+
 
 .players-list .player-description li span{
 	font-weight: bold;
@@ -297,7 +288,7 @@ header > img {
 
 .players-list button{
 	border-radius: 2px;
-	background-color:  #87bae1;
+	background-color:  #A61916;
 	box-shadow: 0 1px 1px rgba(0, 0, 0, 0.12);
 	border: 0;
 	color: #ffffff;
@@ -326,7 +317,7 @@ header > img {
 	left:0;
 	width:100%;
 	height:100%;
-	background-color: rgba(0,0,0,0.1);
+	background-color: rgba(0,0,0,0.2);
 	opacity: 0;
 	transition: 0.4s;
 }
@@ -374,7 +365,7 @@ header > img {
 
 .preview-large{
 	box-sizing: border-box;
-	width: 760px;
+	width: 675px;
 	height: 550px;
 	position: fixed;
 	left: 50%;
@@ -382,12 +373,11 @@ header > img {
 	top: 50%;
 	margin-top: -275px;
 	pointer-events: none;
-	border-radius: 6px;
-	background-color:  #ffffff;
+	border-radius: 30px;
+	background-image: url("../images/tropical-wallpaper.jpg");
 	z-index: 102;
 	opacity: 0;
 	transition: 0.4s;
-
 }
 
 .single-player.visible .preview-large{
@@ -401,9 +391,8 @@ header > img {
 }
 
 .preview-large img{
-	width: 40%;
+	width: 30%;
 	height: 340px;
-	border-bottom: 3px solid #efefef;
 	border-radius: 5px 5px 0 0;
 }
 
@@ -411,6 +400,8 @@ header > img {
 	line-height: 23px;
 	padding: 50px 45px;
 	font-size: 24px;
+	font-weight: bold;
+	color: black;
 }
 
 .close{
